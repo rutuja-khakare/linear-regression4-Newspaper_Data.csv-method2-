@@ -1,0 +1,1 @@
+# linear-regression4-Newspaper_Data.csv-method2-
